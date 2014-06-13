@@ -1,0 +1,27 @@
+/Users/systemadmin/test/platforms/android/ant-build/classes.dex : \
+/Users/systemadmin/test/platforms/android/ant-build/classes/com/phonegap/helloworld/BuildConfig.class \
+/Users/systemadmin/test/platforms/android/ant-build/classes/com/phonegap/helloworld/HelloWorld.class \
+/Users/systemadmin/test/platforms/android/ant-build/classes/com/phonegap/helloworld/R$attr.class \
+/Users/systemadmin/test/platforms/android/ant-build/classes/com/phonegap/helloworld/R$drawable.class \
+/Users/systemadmin/test/platforms/android/ant-build/classes/com/phonegap/helloworld/R$string.class \
+/Users/systemadmin/test/platforms/android/ant-build/classes/com/phonegap/helloworld/R$xml.class \
+/Users/systemadmin/test/platforms/android/ant-build/classes/com/phonegap/helloworld/R.class \
+/Users/systemadmin/test/platforms/android/ant-build/classes/com/wikitude/phonegap/WikitudePlugin$1.class \
+/Users/systemadmin/test/platforms/android/ant-build/classes/com/wikitude/phonegap/WikitudePlugin$10.class \
+/Users/systemadmin/test/platforms/android/ant-build/classes/com/wikitude/phonegap/WikitudePlugin$11.class \
+/Users/systemadmin/test/platforms/android/ant-build/classes/com/wikitude/phonegap/WikitudePlugin$2$1.class \
+/Users/systemadmin/test/platforms/android/ant-build/classes/com/wikitude/phonegap/WikitudePlugin$2.class \
+/Users/systemadmin/test/platforms/android/ant-build/classes/com/wikitude/phonegap/WikitudePlugin$3.class \
+/Users/systemadmin/test/platforms/android/ant-build/classes/com/wikitude/phonegap/WikitudePlugin$4.class \
+/Users/systemadmin/test/platforms/android/ant-build/classes/com/wikitude/phonegap/WikitudePlugin$5.class \
+/Users/systemadmin/test/platforms/android/ant-build/classes/com/wikitude/phonegap/WikitudePlugin$6.class \
+/Users/systemadmin/test/platforms/android/ant-build/classes/com/wikitude/phonegap/WikitudePlugin$7.class \
+/Users/systemadmin/test/platforms/android/ant-build/classes/com/wikitude/phonegap/WikitudePlugin$8.class \
+/Users/systemadmin/test/platforms/android/ant-build/classes/com/wikitude/phonegap/WikitudePlugin$9.class \
+/Users/systemadmin/test/platforms/android/ant-build/classes/com/wikitude/phonegap/WikitudePlugin$ArchitectViewPhoneGap$OnKeyUpDownListener.class \
+/Users/systemadmin/test/platforms/android/ant-build/classes/com/wikitude/phonegap/WikitudePlugin$ArchitectViewPhoneGap.class \
+/Users/systemadmin/test/platforms/android/ant-build/classes/com/wikitude/phonegap/WikitudePlugin$ILocationProvider.class \
+/Users/systemadmin/test/platforms/android/ant-build/classes/com/wikitude/phonegap/WikitudePlugin$LocationProvider.class \
+/Users/systemadmin/test/platforms/android/ant-build/classes/com/wikitude/phonegap/WikitudePlugin.class \
+/Users/systemadmin/test/platforms/android/ant-build/dexedLibs/classes-1d5b9fa3ea5c01fd05360fa3f95b21a4.jar \
+/Users/systemadmin/test/platforms/android/ant-build/dexedLibs/wikitudesdk-903d5cb2d13cf48583093284d4a7aa49.jar \
